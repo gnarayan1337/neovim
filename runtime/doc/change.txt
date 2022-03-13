@@ -755,7 +755,7 @@ use another single-byte character.  This is useful if you want to include a
 You can use most characters, but not an alphanumeric character, '\', '"' or
 '|'.
 
-For the definition of a pattern, see |pattern|.  In Visual block mode, use
+For the definition of a pattern, see |pattern|.  In Visual ' mode, use
 |/\%V| in the pattern to have the substitute work in the block only.
 Otherwise it works on whole lines anyway.
 
